@@ -1,11 +1,11 @@
-
-![Screenshot_8](https://github.com/LuisSalas94/Full-Stack-React-Spring-Boot-Student-Management-System/assets/57297709/1a8c8595-ed25-4731-bc93-f248f48aebda)
+<!-- 
+![Screenshot_8](https://github.com/LuisSalas94/Full-Stack-React-Spring-Boot-Student-Management-System/assets/57297709/1a8c8595-ed25-4731-bc93-f248f48aebda) -->
 
 # Student Management System 📚
 
 A Full-stack web application built using React and Spring Boot for managing student records efficiently. The Student Management System allows users to add, update, and delete student information, along with their respective departments. This system ensures seamless communication between the frontend and backend, providing a user-friendly interface to manage student details.
 
-![Spring-Boot-React](https://github.com/LuisSalas94/Full-Stack-React-Spring-Boot-Student-Management-System/assets/57297709/c653dede-2d3b-4301-a074-48a9daf201b9)
+<!-- ![Spring-Boot-React](https://github.com/LuisSalas94/Full-Stack-React-Spring-Boot-Student-Management-System/assets/57297709/c653dede-2d3b-4301-a074-48a9daf201b9) -->
 
 
 ## Tech Stack 🖥
@@ -46,7 +46,7 @@ Before running this application, ensure that you have the following prerequisite
 - Node.js and npm (Node Package Manager)
 - MySQL database with a designated schema named "student_management_system"
 
-**Setup:**
+<!-- **Setup:**
 
 First clone this repository.
 ```bash
@@ -68,8 +68,8 @@ $ git clone https://github.com/LuisSalas94/Student-Management-System
 - Access the Application:
 - Open your web browser and enter http://localhost:3000 to access the React frontend and interact with the application.
 
-With these steps, you'll have the necessary environment set up to run the Spring Boot backend and the React frontend of the application locally.
-
+With these steps, you'll have the necessary environment set up to run the Spring Boot backend and the React frontend of the application locally. -->
+<!-- 
 ## Author 👤
 
 - GitHub: [@LuisSalas94](https://github.com/LuisSalas94)
@@ -85,10 +85,10 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! -->
 
-## License 📝
+<!-- ## License 📝
 
-This project is [MIT](./MIT.md) licensed.  
+This project is [MIT](./MIT.md) licensed.   -->
 
 
