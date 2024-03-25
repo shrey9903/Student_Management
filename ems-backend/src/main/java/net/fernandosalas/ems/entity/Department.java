@@ -16,7 +16,7 @@ public class Department {
     private Long id;
 
     @Column(name = "department_name")
-    private String departmentName;
+    private String department;
 
     @Column(name = "department_description")
     private String departmentDescription;
